@@ -1,6 +1,6 @@
 # PERMANENTLY MOVED
 
-We have ceased maintaining this fork of clj-headlights. As of 2019-01-31 a fork is being actively maintained at https://github.com/logrhythm/clj-headlights
+We have ceased maintaining this fork of clj-headlights. As of 2019-01-31 a fork is being actively maintained at https://github.com/logrhythm-oss/clj-headlights
 
 ## Copyright and license
 
